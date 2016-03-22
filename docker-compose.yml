@@ -1,6 +1,6 @@
 parse-server:
   #build: .
-  image: yongjhih/parse-server
+  image: sept0r/parse-server
   ports:
     - "1337:1337"
     - "2022:22"
